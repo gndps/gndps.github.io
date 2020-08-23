@@ -26,14 +26,14 @@
     opacity: 1.0;
 }
 
-.frame1 .vector1 {
+.frame1 .union3 {
     background-color: rgba(255,255,255,0.0);
-    top: 3.12%;
-    height: 93.75%;
-    width: 93.75%;
+    top: 24px;
+    height: 36px;
+    width: 22px;
     position: absolute;
     margin: 0;
-    left: 3.12%;
+    left: 30px;
     transform: rotate(0);
 }
 
