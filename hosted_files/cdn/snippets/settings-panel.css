@@ -28,12 +28,12 @@
 
 .frame1 .union3 {
     background-color: rgba(255,255,255,0.0);
-    top: 24px;
-    height: 36px;
-    width: 22px;
+    top: 27px;
+    height: 30px;
+    width: 30px;
     position: absolute;
     margin: 0;
-    left: 30px;
+    left: 23px;
     transform: rotate(0);
 }
 
