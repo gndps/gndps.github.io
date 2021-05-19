@@ -33860,16 +33860,8 @@ a.u-link.u-text-hover-grey-90:hover {
   .u-header .u-sheet-1 {
     min-height: 84px;
   }
+}
 
-  .u-header .u-menu-1 {
-    margin-left: -32px;
-  }
-}
-@media (max-width: 767px) {
-  .u-header .u-menu-1 {
-    margin-left: -32px;
-  }
-}
 
 .u-footer {
   background-image: none;
